@@ -78,6 +78,7 @@ namespace FF3Manip
 public static class TimeZones
 {
     public const string ET = "Eastern Standard Time";
-    public const string UTC = "Co-ordinated Universal Time";
+    public const string UTC = "UTC";
     public const string JST = "Tokyo Standard Time";
+    public const string GMT = "GMT Standard Time";
 }
